@@ -1,0 +1,15 @@
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WpfAppNET\WpfAppNET\bin\Debug\WpfAppNET.exe.config
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WpfAppNET\WpfAppNET\bin\Debug\WpfAppNET.exe
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WpfAppNET\WpfAppNET\bin\Debug\WpfAppNET.pdb
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WpfAppNET\WpfAppNET\obj\Debug\WpfAppNET.csprojAssemblyReference.cache
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WpfAppNET\WpfAppNET\obj\Debug\MainWindow.g.cs
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WpfAppNET\WpfAppNET\obj\Debug\App.g.cs
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WpfAppNET\WpfAppNET\obj\Debug\WpfAppNET_MarkupCompile.cache
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WpfAppNET\WpfAppNET\obj\Debug\WpfAppNET_MarkupCompile.lref
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WpfAppNET\WpfAppNET\obj\Debug\MainWindow.baml
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WpfAppNET\WpfAppNET\obj\Debug\WpfAppNET.g.resources
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WpfAppNET\WpfAppNET\obj\Debug\WpfAppNET.Properties.Resources.resources
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WpfAppNET\WpfAppNET\obj\Debug\WpfAppNET.csproj.GenerateResource.cache
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WpfAppNET\WpfAppNET\obj\Debug\WpfAppNET.csproj.CoreCompileInputs.cache
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WpfAppNET\WpfAppNET\obj\Debug\WpfAppNET.exe
+C:\Users\LordSesshoumaru\Desktop\cv sima\Git\WpfAppNET\WpfAppNET\obj\Debug\WpfAppNET.pdb
